@@ -75,7 +75,7 @@ Date Get 메서드 -> getDate(), getDay etc..
 
 Number 객체 -> MAX_VALUE, MIN_VALUE etc..
 
-Nuber 객체 메서드 -> toFixed(n), toString etc..
+Number 객체 메서드 -> toFixed(n), toString etc..
 
 etc....
 
