@@ -1,9 +1,9 @@
-//출력
+# **출력**
 
-document.write("Hello World!");
+ document.write("Hello World!");
 
 
-//주석
+# **주석**
 
 //한 줄 주석
 /* 여러줄
@@ -11,7 +11,7 @@ document.write("Hello World!");
 */
 
 
-//변수 (String, Number, Boolean, NULL)
+# **변수 (String, Number, Boolean, NULL)**
 
 var message;
 message = "Hello World";
@@ -25,7 +25,7 @@ var num = 10;
 document.write(typeof num); -> number 출력
 
 
-//비교연산자
+# **비교연산자**
 
 var a = 10;
 var b = "10";
@@ -35,7 +35,7 @@ document.write(a==b); // true -> 데이터형과 무관하게 표기된 숫자�
 document.write(a===b); // false -> 데이터형도 반영하여 비교
 
 
-//제어문
+# **제어문**
 
 if(조건식){
 	실행문;
@@ -63,7 +63,7 @@ for(초기값; 조건식; 증감식){
 }
 
 
-//객체
+# **객체**
 
 Date 객체 -> new Date(), new Date(dateString) etc..
 
@@ -76,7 +76,7 @@ Nuber 객체 메서드 -> toFixed(n), toString etc..
 etc....
 
 
-//함수
+# **함수**
 
 fuction 함수명(){
 	실행문;
