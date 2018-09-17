@@ -61,9 +61,13 @@ for(초기값; 조건식; 증감식){
 //객체
 
 Date 객체 -> new Date(), new Date(dateString) etc..
+
 Date Get 메서드 -> getDate(), getDay etc..
+
 Number 객체 -> MAX_VALUE, MIN_VALUE etc..
+
 Nuber 객체 메서드 -> toFixed(n), toString etc..
+
 etc....
 
 //함수
