@@ -97,7 +97,7 @@ function 함수명(){(매개변수1, 매개변수2)
 ```
 # **함수**
 ```javascript
-fuction 함수명(){
+function 함수명(){
 	실행문;
 	reuturn 데이터;
 }
