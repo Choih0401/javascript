@@ -2,12 +2,14 @@
 
 document.write("Hello World!");
 
+
 //주석
 
 //한 줄 주석
 /* 여러줄
 주석
 */
+
 
 //변수 (String, Number, Boolean, NULL)
 
@@ -22,6 +24,7 @@ var bool=true; -> 논리형 데이터(true or false)
 var num = 10;
 document.write(typeof num); -> number 출력
 
+
 //비교연산자
 
 var a = 10;
@@ -30,6 +33,7 @@ var b = "10";
 document.write(a==b); // true -> 데이터형과 무관하게 표기된 숫자만 비교
 
 document.write(a===b); // false -> 데이터형도 반영하여 비교
+
 
 //제어문
 
@@ -58,6 +62,7 @@ for(초기값; 조건식; 증감식){
 	실행문;
 }
 
+
 //객체
 
 Date 객체 -> new Date(), new Date(dateString) etc..
@@ -69,6 +74,7 @@ Number 객체 -> MAX_VALUE, MIN_VALUE etc..
 Nuber 객체 메서드 -> toFixed(n), toString etc..
 
 etc....
+
 
 //함수
 
