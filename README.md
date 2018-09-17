@@ -79,21 +79,6 @@ Nuber 객체 메서드 -> toFixed(n), toString etc..
 
 etc....
 
-
-# **함수**
-
-fuction 함수명(){
-	실행문;
-	reuturn 데이터;
-}
-
-참조변수 = function(){
-	실행문;
-}
-
-function 함수명(){(매개변수1, 매개변수2)
-	실행문;
-}
 ```
 # **함수**
 ```javascript
