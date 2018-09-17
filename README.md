@@ -1,10 +1,10 @@
 # **출력**
-
+```javascript
  document.write("Hello World!");
-
+```
 
 # **주석**
-
+```javascript
 //한 줄 주석
 
 /* 여러줄
@@ -12,7 +12,7 @@
 주석
 
 */
-
+```
 
 # **변수 (String, Number, Boolean, NULL)**
 ```javascript
