@@ -69,11 +69,11 @@ for(초기값; 조건식; 증감식){
 ```javascript
 Date 객체 -> new Date(), new Date(dateString) etc..
 
-Date Get 메서드 -> getDate(), getDay etc..
+Date Get 메서드 -> getDate(), getDay() etc..
 
 Number 객체 -> MAX_VALUE, MIN_VALUE etc..
 
-Number 객체 메서드 -> toFixed(n), toString etc..
+Number 객체 메서드 -> toFixed(n), toString() etc..
 
 etc....
 
